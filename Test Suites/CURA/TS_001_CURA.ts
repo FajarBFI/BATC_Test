@@ -30,7 +30,7 @@
             <iterationType>ALL</iterationType>
             <value></value>
          </iterationEntity>
-         <testDataId>Data Files/CURA/ExcelFile_CURA_PositiveCase</testDataId>
+         <testDataId>Data Files/CURA/InternalData_CURA_PositiveCase</testDataId>
       </testDataLink>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
       <variableLink>
