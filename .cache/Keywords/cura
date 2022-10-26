@@ -1,0 +1,30 @@
+{
+  "keywordFileContentHash": "E0C8C5763766960C776E76C76A2FCD35",
+  "keywordClasses": [
+    {
+      "name": "cura",
+      "keywordMethods": [
+        {
+          "name": "healthcare_program",
+          "parameters": [
+            {
+              "name": "healthcare_program",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "java.lang.Object",
+                "unresolvedClassName": "java.lang.Object",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": true,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            }
+          ],
+          "javadoc": ""
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}

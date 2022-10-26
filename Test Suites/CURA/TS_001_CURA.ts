@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>TS_001_CURA</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>0</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>true</rerunImmediately>
+   <testSuiteGuid>d5087dee-a22b-472b-b668-56843abe5ff1</testSuiteGuid>
+   <testCaseLink>
+      <guid>cb9201a7-45d7-4a0e-bedf-1cf02e281028</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/CURA/Main_Test_Case/TC_001_Login</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>4f605e92-056a-402f-bfd6-30e311c5fe8e</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/CURA/Main_Test_Case/TC_002_Make-Appointment</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>3c3bd085-39b1-48e7-a520-c9df4caf4857</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/CURA/ExcelFile_CURA_PositiveCase</testDataId>
+      </testDataLink>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId>3c3bd085-39b1-48e7-a520-c9df4caf4857</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>apply_hospital</value>
+         <variableId>ff6623ec-55ae-4c8e-8477-177aef538fea</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>3c3bd085-39b1-48e7-a520-c9df4caf4857</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>healthcare_program</value>
+         <variableId>4c4a83df-e67f-4a40-94ea-f4313ff7eff3</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>3c3bd085-39b1-48e7-a520-c9df4caf4857</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>visit_date</value>
+         <variableId>d11b6e03-a2c5-4b3e-a43a-e38ba58460e9</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>3c3bd085-39b1-48e7-a520-c9df4caf4857</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>comment</value>
+         <variableId>05fbecbf-d0ba-4ed6-b2a9-ce873dd47245</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>3c3bd085-39b1-48e7-a520-c9df4caf4857</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>label_confirm</value>
+         <variableId>d18e5093-2802-40ed-a45b-8bff7fe8b1d7</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>3c3bd085-39b1-48e7-a520-c9df4caf4857</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>facility</value>
+         <variableId>b7da4adb-87fb-43b1-9de6-9e11900c4322</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>0f27588c-2141-4be9-a6e8-13af1a02c236</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/CURA/Main_Test_Case/TC_003_Logout</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+   </testCaseLink>
+</TestSuiteEntity>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DataFileEntity>
+   <description></description>
+   <name>ExcelFile_CURA_PositiveCase</name>
+   <tag></tag>
+   <containsHeaders>true</containsHeaders>
+   <csvSeperator></csvSeperator>
+   <dataFileGUID>4130daa2-50bf-4bdf-b83f-78cc88bd18ab</dataFileGUID>
+   <dataSourceUrl>C:\Users\094090\Downloads\BFI Needs\Katalon-Project\BATC_CURA\BATC_CURA\Test Data\ExcelFile_CURA_PositiveCase.xlsx</dataSourceUrl>
+   <driver>ExcelFile</driver>
+   <isInternalPath>false</isInternalPath>
+   <query></query>
+   <secureUserAccount>false</secureUserAccount>
+   <sheetName>Make_Appointment</sheetName>
+   <usingGlobalDBSetting>false</usingGlobalDBSetting>
+</DataFileEntity>

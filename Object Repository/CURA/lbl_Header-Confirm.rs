@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>lbl_Header-Confirm</name>
+   <tag></tag>
+   <elementGuidId>d0b8821e-5332-4c1d-becb-eb4291bcbde9</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id=&quot;summary&quot;]/div/div/div[1]/h2</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id=&quot;summary&quot;]/div/div/div[1]/h2</value>
+      <webElementGuid>049f8608-fdd1-46db-a346-1f45525946dc</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>
